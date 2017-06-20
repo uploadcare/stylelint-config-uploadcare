@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-config-uploadcare",
+  "version": "0.0.1",
+  "description": "The shareable config for stylelint by Uploadcare team",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uploadcare/stylelint-config-uploadcare.git"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "uploadcare"
+  ],
+  "author": "Zarema Khalilova",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uploadcare/stylelint-config-uploadcare/issues"
+  },
+  "homepage": "https://github.com/uploadcare/stylelint-config-uploadcare#readme"
+}
