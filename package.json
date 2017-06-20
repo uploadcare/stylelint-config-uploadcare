@@ -4,6 +4,8 @@
   "description": "The shareable config for stylelint by Uploadcare team",
   "main": "index.js",
   "scripts": {
+    "lint:md": "markdownlint README.md",
+    "lint:js": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/uploadcare/stylelint-config-uploadcare/issues"
   },
-  "homepage": "https://github.com/uploadcare/stylelint-config-uploadcare#readme"
+  "homepage": "https://github.com/uploadcare/stylelint-config-uploadcare#readme",
+  "devDependencies": {
+    "eslint": "^4.0.0",
+    "eslint-config-uploadcare": "^1.1.0",
+    "markdownlint-cli": "^0.3.1"
+  }
 }
