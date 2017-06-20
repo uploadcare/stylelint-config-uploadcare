@@ -27,5 +27,8 @@
     "eslint": "^4.0.0",
     "eslint-config-uploadcare": "^1.1.0",
     "markdownlint-cli": "^0.3.1"
+  },
+  "dependencies": {
+    "stylelint-config-standard": "^16.0.0"
   }
 }
