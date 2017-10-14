@@ -31,6 +31,6 @@
     "markdownlint-cli": "^0.3.1"
   },
   "dependencies": {
-    "stylelint-config-standard": "^17.0.0"
+    "stylelint-config-recommended": "^1.0.0"
   }
 }
