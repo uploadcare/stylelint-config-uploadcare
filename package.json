@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/uploadcare/stylelint-config-uploadcare#readme",
   "devDependencies": {
-    "eslint": "^4.0.0",
+    "eslint": "^4.8.0",
     "eslint-config-uploadcare": "^1.1.0",
     "markdownlint-cli": "^0.3.1"
   },
   "dependencies": {
-    "stylelint-config-standard": "^16.0.0"
+    "stylelint-config-standard": "^17.0.0"
   }
 }
