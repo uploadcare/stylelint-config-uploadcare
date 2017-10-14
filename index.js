@@ -1,3 +1,6 @@
 'use strict'
 
-module.exports = {extends: 'stylelint-config-recommended'}
+module.exports = {
+  extends: 'stylelint-config-recommended',
+  rules: {'number-leading-zero': 'never'},
+}
