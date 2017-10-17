@@ -1,8 +1,9 @@
 # stylelint-config-uploadcare
 
 <a href="https://uploadcare.com/?utm_source=github&utm_campaign=stylelint-config-uploadcare">
-    <img align="right" width="169" height="40"
-         src="https://ucarecdn.com/e0367a86-9787-44b1-bc94-878e18ae2928/"
+    <img align="right" width="40" height="40"
+         src="https://ucarecdn.com/2f4864b7-ed0e-4411-965b-8148623aa680/uploadcare-logo-mark.svg"
+         alt=""
          title="Uploadcare">
 </a>
 
