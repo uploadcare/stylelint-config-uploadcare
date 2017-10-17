@@ -16,6 +16,12 @@ Added:
 
 * The `number-leading-zero` rule, which value is `never`.
 * Tests that check that the valid css doesn’t cause errors or warnings.
+* Travis CI config for [running tests](https://travis-ci.org/uploadcare/stylelint-config-uploadcare).
+* README: npm and travis shields
+
+Changed:
+
+* README: use the mark version instead of full for the logo of Uploadcare.
 
 ## 2.0.0 - 2017-06-20
 
