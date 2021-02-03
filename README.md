@@ -13,8 +13,8 @@ The shareable config for stylelint by Uploadcare team.
 
 [npm-img]: http://img.shields.io/npm/v/stylelint-config-uploadcare.svg
 [npm-link]: https://www.npmjs.org/package/stylelint-config-uploadcare
-[travis-img]: https://travis-ci.org/uploadcare/stylelint-config-uploadcare.svg?branch=master
-[travis-link]: https://travis-ci.org/uploadcare/stylelint-config-uploadcare
+[travis-img]: https://travis-ci.com/uploadcare/stylelint-config-uploadcare.svg?branch=master
+[travis-link]: https://travis-ci.com/uploadcare/stylelint-config-uploadcare
 
 ## Install
 
