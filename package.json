@@ -30,7 +30,7 @@
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
     "eslint": "^4.8.0",
     "eslint-config-uploadcare": "^1.1.0",
-    "jest": "^21.2.1",
+    "jest": "^29.3.1",
     "markdownlint-cli": "^0.3.1",
     "stylelint": "^8.2.0"
   },
